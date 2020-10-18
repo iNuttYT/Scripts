@@ -28,7 +28,7 @@ _G.dungeon = "Steampunk Sewers"
 _G.difficulty = "Nightmare"
 _G.hardcore = true
 _G.auto_choose_dungeon_and_difficulty = false -- chooses difficulty and dungeon based on your level
-_G.autoexec_wait_time_secs = 2
+_G.autoexec_wait_time_secs = 10
 
 -- Boss Raid Settings
 _G.boss_raid = false
