@@ -25,7 +25,7 @@ _G.collect_daily_reward = true
 -- Normal Dungeon Settings
 _G.auto_join_dungeon = true
 _G.dungeon = "Steampunk Sewers"
-_G.difficulty = "NIGHTMARE"
+_G.difficulty = "Nightmare"
 _G.hardcore = true
 _G.auto_choose_dungeon_and_difficulty = false -- chooses difficulty and dungeon based on your level
 _G.autoexec_wait_time_secs = 2
