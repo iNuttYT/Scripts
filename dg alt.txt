@@ -23,15 +23,15 @@ _G.collect_daily_reward = true
 
 -- Dungeon Choosing Settings
 -- Normal Dungeon Settings
-_G.auto_join_dungeon = false
+_G.auto_join_dungeon = true
 _G.dungeon = "Volcanic Chambers"
 _G.difficulty = "Insane"
-_G.hardcore = false
-_G.auto_choose_dungeon_and_difficulty = false -- chooses difficulty and dungeon based on your level
+_G.hardcore = true
+_G.auto_choose_dungeon_and_difficulty = true -- chooses difficulty and dungeon based on your level
 _G.autoexec_wait_time_secs = 2
 
 -- Boss Raid Settings
-_G.boss_raid = true
+_G.boss_raid = false
 _G.auto_choose_raid_boss_tier = true
 _G.boss_raid_tier = 1
 _G.ability_key  = "e"
